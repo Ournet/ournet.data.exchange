@@ -1,0 +1,25 @@
+{
+  "name": "ournet.data.exchange",
+  "version": "0.0.7",
+  "description": "ournet data exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ournet/ournet.data.exchange.git"
+  },
+  "keywords": [
+    "ournet",
+    "data",
+    "exchange"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^6.0.3",
+    "ournet.core": "^0.1.5",
+    "vogels": "^2.0.0-rc8"
+  }
+}
