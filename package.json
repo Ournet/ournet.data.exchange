@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "joi": "^6.0.3",
-    "ournet.core": "^0.1.5",
+    "ournet.core": "^0.1.7",
     "vogels": "^2.0.0-rc8"
   }
 }
