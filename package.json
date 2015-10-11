@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.exchange",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "ournet data exchange",
   "main": "index.js",
   "scripts": {
