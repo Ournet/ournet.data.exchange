@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.exchange",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "ournet data exchange",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "joi": "^6.0.3",
-    "ournet.core": "^0.1.7",
+    "ournet.core": "^0.1.8",
     "vogels": "^2.0.0-rc8"
   }
 }
