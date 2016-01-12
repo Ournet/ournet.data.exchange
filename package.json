@@ -1,8 +1,8 @@
 {
   "name": "ournet.data.exchange",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "ournet data exchange",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -18,8 +18,8 @@
   "author": "Dumitru Cantea",
   "license": "ISC",
   "dependencies": {
-    "joi": "^6.0.3",
-    "ournet.core": "^0.1.8",
-    "vogels": "^2.0.0-rc8"
+    "lodash": "^3.10.1",
+    "memory-cache": "^0.1.4",
+    "vogels-helpers": "^0.1.3"
   }
 }
